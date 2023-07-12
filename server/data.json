@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Venom: Let There Be Carnage",
+    "overview": "After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.",
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w500/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Halloween Kills",
+    "overview": "Minutes after Laurie Strode, her daughter Karen and granddaughter Allyson left masked monster Michael Myers caged and burning in Laurie's basement, Laurie is rushed to the hospital with life-threatening injuries, believing she finally killed her lifelong tormentor.",
+    "rating": 7.4,
+    "poster": "https://image.tmdb.org/t/p/w500/qmJGd5IfURq8iPQ9KF3les47vFS.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Split",
+    "overview": "Though Kevin (James McAvoy) has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher (Betty Buckley), there remains one still submerged who is set to materialize and dominate all of the others.",
+    "rating": 8.2,
+    "poster": "http://assets.kompasiana.com/items/album/2021/07/20/split-devianart-co-60f6936cb13fde452f3cc682.jpg"
+  }
+]
